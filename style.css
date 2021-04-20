@@ -1,0 +1,44 @@
+
+    h1{
+        color: rgb(141, 22, 72);
+
+    }
+
+.header{
+    background-color: rgb(243, 152, 208);
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.grid{
+    background-color: rgb(243, 82, 170);
+    flex-wrap:wrap;
+    justify-content: space-between;
+    text-align: center;
+
+    width: 370px;
+    font-family: sans-serif;
+}
+
+.origami{
+    background-color: rgb(187, 92, 144);
+    flex-wrap:wrap;
+    justify-content: space-between;
+    text-align: center;
+
+    width: 370px;
+    font-family: fantasy;
+}
+
+.main{
+    background-color: rgb(224, 151, 191);
+    flex-wrap:wrap;
+    justify-content: space-between;
+    text-align: center;
+
+    width: 370px;
+    font-family: sans-serif;
+
+}
+
